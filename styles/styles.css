@@ -122,9 +122,10 @@ div button {
     background-color: rgb(103, 103, 199);
     border: none;
     border-radius: 10px;
+    cursor: pointer;
 }
 
-button .text-button {
+.text-button {
     color: white;
     text-decoration: none;
 }
