@@ -155,6 +155,15 @@ button .text-button {
     margin-bottom: 10px;
 }
 
+.period-work {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    color: #070606;
+    margin-bottom: 10px;
+}
+
 .line {
     font-style: normal;
     font-weight: 400;
